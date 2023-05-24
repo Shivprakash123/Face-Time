@@ -21,7 +21,6 @@ o Whiteboard <br>
 ![Screenshot (3422)](https://github.com/Shivprakash123/Face-Time/assets/87631649/5b5c9fdd-8485-46a9-9558-62d266b1ec53)
 ![Screenshot (3419)](https://github.com/Shivprakash123/Face-Time/assets/87631649/46159aea-dfad-48a6-8a07-67ac01a80dcf)
 
-   [Screenshot (1919)](https://user-images.githubusercontent.com/87631649/126274047-63f03ed8-d8c6-4950-871d-b2be4a58a5f3.png)
    
 <h1>Instructions to run the code: </h1>
 
